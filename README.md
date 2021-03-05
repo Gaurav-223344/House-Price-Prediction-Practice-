@@ -7,7 +7,7 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-  * [Brife]
+  * [brief Intro]
   * [Team](#team)
   * [Credits](#credits)
 
@@ -44,4 +44,4 @@ This project is divided into two part:
 
 
 ## Credits
-- [train.csv(Great Learning)](https://olympus.greatlearning.in/courses/34034/files/1835209?module_item_id=920176) - This project wouldn't have been possible without this dataset. And shout-out to [Sampriti-Chatterjee](https://olympus.greatlearning.in/courses/34034/pages/about-the-speaker?module_item_id=913093) for instruction and guidlines via live session.
+- [train.csv(Great Learning)](https://olympus.greatlearning.in/courses/34034/files/1835209?module_item_id=920176) - This project wouldn't have been possible without this dataset. And shout-out to [Sampriti-Chatterjee](https://olympus.greatlearning.in/courses/34034/pages/about-the-speaker?module_item_id=913093) for greate instructions and guidelines by live session.
