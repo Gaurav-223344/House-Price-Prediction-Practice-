@@ -7,7 +7,7 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-  * [brief Intro]
+  * [Detail Information](#detail-information)
   * [Team](#team)
   * [Credits](#credits)
 
@@ -23,7 +23,12 @@ This project is divided into two part:
 1. Feature Engineering
 2. Training a machine learning model using sklearn. 
 
+## Detail Information
+In this project I am practicing about some Important steps in Data Science Lifecycle. 
 
+1. Handling missing values:
+2. Feature Engineering:
+3. Model Selection
 
 ## Directory Tree 
 ```
