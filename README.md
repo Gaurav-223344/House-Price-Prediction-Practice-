@@ -1,8 +1,5 @@
 # House-Price-Prediction-Practice
 
-
-# Womens Diabetes Prediction (Practice Project)
-
 ## Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
